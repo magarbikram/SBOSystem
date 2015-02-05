@@ -1,0 +1,6 @@
+C:\Users\bikram\Documents\GitHub\SBOSystem\SBOSystemForm\bin\Debug\SBOSystemForm.exe
+C:\Users\bikram\Documents\GitHub\SBOSystem\SBOSystemForm\bin\Debug\SBOSystemForm.pdb
+C:\Users\bikram\Documents\GitHub\SBOSystem\SBOSystemForm\bin\Debug\SAPbouiCOM.dll
+C:\Users\bikram\Documents\GitHub\SBOSystem\SBOSystemForm\obj\Debug\SBOSystemForm.csprojResolveAssemblyReference.cache
+C:\Users\bikram\Documents\GitHub\SBOSystem\SBOSystemForm\obj\Debug\SBOSystemForm.exe
+C:\Users\bikram\Documents\GitHub\SBOSystem\SBOSystemForm\obj\Debug\SBOSystemForm.pdb
